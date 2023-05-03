@@ -20,3 +20,5 @@ Walk-through video: https://drive.google.com/file/d/1Bc931Kg8OFc9WUeDcrqsMr6hmcV
 
 Repository: https://github.com/codingprincess111/orm-challenge
 
+[screenshot](./img/mysql.png) 
+
